@@ -12,7 +12,11 @@ Vous travaillerez à partir de données fournies par la FAO.
 * sous_nutrition [FAO](https://www.fao.org/faostat/fr/#home)
 * code_iso [FAO](https://www.fao.org/faostat/fr/#home)
 
-### Compétences:
+### Étapes
+* Nettoyage des données
+* Analyse des données et interprétation des résultats
+
+### Compétences
 * Utiliser des librairies spécialisées pour les traitements data
 * Créer un environnement de développement
 * Manipuler des Dataframes
