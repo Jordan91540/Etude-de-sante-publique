@@ -1,4 +1,4 @@
-# Etude-de-sante-publique
+# Étude de santé publique
 ## Étude sur la sous-nutrition dans le monde en 2017 ##
 
 *Projet réalisé dans le cadre de ma formation Openclassrooms*  
